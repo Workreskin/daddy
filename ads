@@ -11,10 +11,10 @@
   "applovin_reward":"aaff64927db762a7",
   "applovin_native":"63158ab46bde7dc7",
 
-  "facebook_banner":"ca-app-pub56099942",
-  "facebook_interstitial":"ca-app-pub-567",
-  "facebook_reward":"02786725c1e32509",
-  "facebook_native":"2f915319fb229ec4"
+  "facebook_banner":"",
+  "facebook_interstitial":"",
+  "facebook_reward":"",
+  "facebook_native":""
 
 
 },
